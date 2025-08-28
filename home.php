@@ -16,6 +16,6 @@ $date = date('Y-m-d H:i:s');
 <body>
   <h1>Selamat datang di Home</h1>
   <p>Waktu server: <strong><?php echo htmlspecialchars($date, ENT_QUOTES, 'UTF-8'); ?></strong></p>
-  <p><a href="/">← Kembali ke index</a></p>
+  <p><a href='index.php'>Back to Index</a></p>
 </body>
 </html>
