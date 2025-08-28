@@ -1,6 +1,6 @@
 <?php
 $date = date('Y-m-d H:i:s');
-?>
+
 <!doctype html>
 <html lang="id"> 
   <head>
@@ -15,3 +15,5 @@ $date = date('Y-m-d H:i:s');
     <p><a href='index.php'>Back to Index</a></p>
   </body>
 </html>
+
+?>
